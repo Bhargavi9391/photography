@@ -75,7 +75,7 @@ body {
 .header {
   min-height: 600px;
   background-image: radial-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.9)),
-    url("assets/service.jpg");
+    url("service.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -209,7 +209,7 @@ nav {
 
 .service {
   background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
-    url("assets/service.jpg");
+    url("service.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -322,7 +322,7 @@ nav {
 
 .blog {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("assets/image-6.jpg");
+    url("image-6.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
